@@ -17,7 +17,7 @@ a {
 }
  /* It is use to remove horizonal scroll in webpage */
 body , html {
-    overflow-x: hidden;
+    overflow-x: hidden;     
 }
 
 /* -----Navbar Style -----------*/
